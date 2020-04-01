@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Adapter delegation example</string>
+    <string name="main_title">Hello home!</string>
+    <string name="main_explanation">Comparison of different libraries for RecyclerView ViewHolder delegation.</string>
+    <string name="main_groupie">Groupie</string>
+    <string name="main_adapter_delegates">AdapterDelegates</string>
+    <string name="main_cycler">Cycler</string>
+</resources>
